@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  align-items: center;
+  display: inline-flex;
+  justify-content: space-between;
 }
-
+nav ul li{
+  list-style-type: none;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
