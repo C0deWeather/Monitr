@@ -1,0 +1,12 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+tmp/
+*.txt
+*.sql
+track.js
